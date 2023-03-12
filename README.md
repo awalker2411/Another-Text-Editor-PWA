@@ -14,8 +14,8 @@ Heroku Link: https://arcane-bayou-87733.herokuapp.com/
 ## Usage
 
 -Go to the link listed above
--Start writing in the text editor!
--If you want to use this application locally, hit the install button at the top left!
+<br>-Start writing in the text editor!
+<br>-If you want to use this application locally, hit the install button at the top left!
 
 ![challenge 19 1](https://user-images.githubusercontent.com/120272622/224520873-32c0c32f-6b8f-4e1a-8553-b26004c195ca.PNG)
 
